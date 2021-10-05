@@ -100,4 +100,4 @@ tên những thành viên, Tên đề tài, Giáo viên hướng dẫn)
      * Nội dung đã tìm hiểu được
      * Hướng phát triển
 - Tài liệu tham khảo
-     * Mô tả các tài liệu tham khả
+     * Mô tả các tài liệu tham khảo
