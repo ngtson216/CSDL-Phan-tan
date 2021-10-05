@@ -63,6 +63,7 @@ tên những thành viên, Tên đề tài, Giáo viên hướng dẫn)
               AP2 0  1  0  1  0   0  3  7  0
               AP3 1  0  1  0  1   0  0  3  0
               AP4 0  1  0  1  0   8  0  6  0
+              
         Sau đó dùng thuật toán năng lượng liên kết – BEA để tính toán phân 
        mảnh dọc cho bảng B.
      o Kịch bản phân mảnh ngang cho 1 bảng như sau:
